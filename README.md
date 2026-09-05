@@ -1,7 +1,11 @@
 // These are all of my code in my index.html
+
 // Path: app -> scr -> main -> assets -> index.html
+
 // The collaboration between TPhuoc(SNH) and supporter is MTriet(HCMUS)
+
 // The comments describe the main logic of the code for each feature to easily check after this app is completed
+
 
 <!DOCTYPE html>
 <html lang="vi">
